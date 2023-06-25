@@ -4,7 +4,9 @@
     <projectFile>ConsoleApp2/ConsoleApp2.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcb5ec53-1f32-4399-a292-7e7fd5edf54b" name="Changes" comment="" />
+    <list default="true" id="bcb5ec53-1f32-4399-a292-7e7fd5edf54b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/PalletAndBoxManager/PalletAndBoxManager.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PalletAndBoxManager/PalletAndBoxManager.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "RiderDotCoverFilteringPageId",
+    "settings.editor.selected.configurable": "DockerRegistry",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -75,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687702138081</updated>
-      <workItem from="1687702139329" duration="15549000" />
+      <workItem from="1687702139329" duration="15862000" />
     </task>
     <servers />
   </component>
